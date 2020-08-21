@@ -1,1 +1,2 @@
 Fil for å teste pull kommando
+Her legger jeg til noe drit 
